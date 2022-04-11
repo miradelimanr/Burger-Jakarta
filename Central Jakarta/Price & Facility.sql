@@ -3,6 +3,11 @@ FROM central_jakarta
 WHERE price >= 50000 
 ORDER BY price DESC;
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ---OUTPUT (14 rows)
 # partlor_name	        district	unique_menu	price
 Hard Rock Cafe	        SCBD	Original Legendary Burger	229000
