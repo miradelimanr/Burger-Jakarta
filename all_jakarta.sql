@@ -138,7 +138,6 @@ END AS "Recommendation"
 FROM west_jakarta ORDER BY total_rating DESC;
 
 ---OUTPUT (76 rows) #ordered from highest total_rating to the lowest, total_count added just for comparison with the ratings.
-
 partlor_name				district		google_rating	qraved_rating	zomato_rating	total_count	total_rating	Recommendation
 Lawless Burgerbar			Kemang			4.7		4.6		4.7		8948		4.6		Recommended
 Lawless Burger				Menteng			4.6		5		4.1		1925		4.5		Recommended
@@ -216,5 +215,4 @@ Lemoe Burger Matraman			Matraman		0		3.7		0		3		1.2		Reconsidered
 Papitos Burger				Kramat Jati		0		0		3.5		4		1.1		Reconsidered
 Burger King Mall Taman Anggrek		Tanjung Duren		0		0		3.2		18		1		Reconsidered
 Lemoe Burger				Kelapa Gading		0		0		0		0		0		Reconsidered
-
 ----
