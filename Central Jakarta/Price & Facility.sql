@@ -94,7 +94,7 @@ SELECT partlor_name, district, unique_menu, price, delivery
 FROM central_jakarta 
 WHERE delivery = "yes";
 
----OUTPUT
+---OUTPUT (15 rows)
 # partlor_name	district	unique_menu	price	delivery
 Burger King Grand Indonesia	Thamrin	Whooper Jr.	37273	yes
 Burger King Thamrin City	Tanah Abang	Whooper Jr.	37273	yes
