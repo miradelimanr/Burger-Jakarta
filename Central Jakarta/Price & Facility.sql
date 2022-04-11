@@ -30,18 +30,18 @@ WHERE price <= 50000
 ORDER BY price;
 
 ---OUTPUT (11 rows)
-# partlor_name	                district	      unique_menu     	          price
-Lemoe Burger	                  Cempaka Putih	  Chicken Cabe Ijo	          14000
-BarBurger	                      Cempaka Putih 	Barchiz Burger	            23000
-Burger Bener	                  Senen	Beef      Burger Spicy BBQ Sauce	    24000
-Burger King Citywalk Sudirman	  Sudirman	      Cheese Burger	              25000
-Gode Burger	                    Pecenongan  	  Pretty Purple Chicken Matah	30000
-Burger King Grand Indonesia	    Thamrin     	  Whooper Jr.	                37273
-Burger King Thamrin City	      Tanah Abang	    Whooper Jr.	                37273
-Burger King Bendungan Hilir	    Bendungan Hilir	Whooper Jr.	                37273
-Burger King Cempaka Putih	      Cempaka Putih	  Whooper Jr.	                37273
-Flip Burger	                    Sudirman	      Cheese Burger	              40909
-Klenger Burger	                Senen	          Super Duper Klenger Burger	45000
+# partlor_name	                district	      	unique_menu     	          price
+Lemoe Burger	                Cempaka Putih	  	Chicken Cabe Ijo	          14000
+BarBurger	                Cempaka Putih 		Barchiz Burger	            	  23000
+Burger Bener	                Senen	Beef      	Burger Spicy BBQ Sauce	    	  24000
+Burger King Citywalk Sudirman	Sudirman	      	Cheese Burger	              	  25000
+Gode Burger	                Pecenongan  	  	Pretty Purple Chicken Matah	  30000
+Burger King Grand Indonesia	Thamrin     	  	Whooper Jr.	                  37273
+Burger King Thamrin City	Tanah Abang	    	Whooper Jr.	                  37273
+Burger King Bendungan Hilir	Bendungan Hilir		Whooper Jr.	                  37273
+Burger King Cempaka Putih	Cempaka Putih	 	Whooper Jr.	                  37273
+Flip Burger	                Sudirman	      	Cheese Burger	                  40909
+Klenger Burger	                Senen	         	Super Duper Klenger Burger	  45000
 ---
 
 
