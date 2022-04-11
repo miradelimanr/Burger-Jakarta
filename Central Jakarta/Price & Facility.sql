@@ -5,9 +5,9 @@ ORDER BY price DESC;
 
 ---OUTPUT (14 rows)
 # partlor_name				district	unique_menu	price
-Hard Rock Cafe				SCBD	Original Legendary Burger	229000
+Hard Rock Cafe				SCBD	    Original Legendary Burger	229000
 Le Burger             Sudirman	Truffle Burger	130000
-The Goods Diner	SCBD	Coffee Rubed Burger	120000
+The Goods Diner	      SCBD	Coffee Rubed Burger	120000
 JJ Royal Brasserie	Karet	Western Bacon Cheese Burger	110000
 Lawless Burger	Menteng	The Lemmy	105000
 Dope Burger	Menteng	All American	75000
