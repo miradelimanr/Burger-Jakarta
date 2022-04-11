@@ -3,9 +3,11 @@ SELECT partlor_name, district, unique_menu, price FROM central_jakarta;
 
 #district filter
 SELECT DISTINCT district FROM central_jakarta ORDER BY district;
+
 SELECT partlor_name, district, unique_menu, price, dining, takeaway, delivery, outdoor_seat, 
 smoking_area, alcohol_served, wifi, reservation, halal_food FROM central_jakarta 
 WHERE district = "Bendungan Hilir";
+
 SELECT partlor_name, district, unique_menu, price, dining, takeaway, delivery, outdoor_seat, 
 smoking_area, alcohol_served, wifi, reservation, halal_food FROM central_jakarta 
 WHERE district = "Cempaka Putih";
