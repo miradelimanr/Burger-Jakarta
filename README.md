@@ -1,2 +1,1 @@
-# sample
-this is just a sample code
+Hi there! This is my SQL portfolio. For other programming languages like R you can access right here.
