@@ -3,9 +3,8 @@ FROM central_jakarta
 WHERE price >= 50000 
 ORDER BY price DESC;
 
-/*OUTPUT (14 rows)
-# partlor_name	          district	unique_menu	price
-Hard Rock Cafe            SCBD	Original Legendary Burger	229000
+---OUTPUT (14 rows)
+Hard Rock Cafe	          SCBD	Original Legendary Burger	229000
 Le Burger	                Sudirman	Truffle Burger	130000
 The Goods Diner	          SCBD	Coffee Rubed Burger	120000
 JJ Royal Brasserie	      Karet	Western Bacon Cheese Burger	110000
@@ -16,10 +15,11 @@ Burgreens Pacific Place	  SCBD	Mini Trio Vegan Burger	75000
 Johny Rockets	            Karet	Bacon Cheddar	72000
 Belly Bandit To Go	      Menteng	Bandit Tower	68000
 Lucy Beer & Burger Bar	  Sudirman	Bacon Me Crazy	68000
-Ask for Patty	Menteng	    Classic Patty	60500
-Burger King Hayam Wuruk	  Hayam Wuruk	Chicken Steakhouse BBQ	59901
+Ask for Patty	            Menteng	Classic Patty	60500
+Burger King               Hayam Wuruk	Hayam Wuruk	Chicken Steakhouse BBQ	59901
 Burger King Atrium Plaza	Senen	Mushroom Swiss XL	59901
-*/
+
+---
 
 SELECT partlor_name, district, unique_menu, price 
 FROM central_jakarta 
