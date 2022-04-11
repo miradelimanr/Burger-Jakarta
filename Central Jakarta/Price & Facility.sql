@@ -4,7 +4,7 @@ WHERE price >= 50000
 ORDER BY price DESC;
 
 ---OUTPUT (14 rows)
-# partlor_name	          district	    unique_menu	                price
+# partlor_name	         	district	    unique_menu	                price
 Hard Rock Cafe  	        SCBD	        Original Legendary Burger	  229000
 Le Burger         	      Sudirman	    Truffle Burger	            130000
 The Goods Diner	          SCBD	        Coffee Rubed Burger	        120000
@@ -95,15 +95,15 @@ FROM central_jakarta
 WHERE delivery = "yes";
 
 ---OUTPUT (15 rows)
-# partlor_name	district	unique_menu	price	delivery
-Burger King Grand Indonesia	Thamrin	Whooper Jr.	37273	yes
-Burger King Thamrin City	Tanah Abang	Whooper Jr.	37273	yes
-Burger King Bendungan Hilir	Bendungan Hilir	Whooper Jr.	37273	yes
+# partlor_name								district	unique_menu	price	delivery
+Burger King Grand Indonesia		Thamrin		Whooper Jr.	37273	yes
+Burger King Thamrin City			Tanah Abang	Whooper Jr.	37273	yes
+Burger King Bendungan Hilir		Bendungan Hilir	Whooper Jr.	37273	yes
 Burger King Citywalk Sudirman	Sudirman	Cheese Burger	25000	yes
-Burger King Hayam Wuruk	Hayam Wuruk	Chicken Steakhouse BBQ	59901	yes
-Burger King Cempaka Putih	Cempaka Putih	Whooper Jr.	37273	yes
-Lemoe Burger	Cempaka Putih	Chicken Cabe Ijo	14000	yes
-Le Burger	Sudirman	Truffle Burger	130000	yes
+Burger King Hayam Wuruk				Hayam Wuruk	Chicken Steakhouse BBQ	59901	yes
+Burger King Cempaka Putih			Cempaka Putih	Whooper Jr.	37273	yes
+Lemoe Burger									Cempaka Putih	Chicken Cabe Ijo	14000	yes
+Le Burger	Sudirman						Truffle Burger	130000	yes
 Burger Bener	Senen	Beef Burger Spicy BBQ Sauce	24000	yes
 Dope Burger	Menteng	All American	75000	yes
 The Goods Diner	SCBD	Coffee Rubed Burger	120000	yes
