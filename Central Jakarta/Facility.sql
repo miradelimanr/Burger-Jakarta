@@ -31,6 +31,39 @@ Gode Burger			Pecenongan	Pretty Purple Chicken Matah	30000	yes
 Lucy Beer & Burger Bar		Sudirman	Bacon Me Crazy			68000	yes
 ---
 
+SELECT partlor_name, district, unique_menu, price, delivery
+FROM central_jakarta
+WHERE takeaway = "yes";
+
+---OUTPUT (24 rows)
+# partlor_name			district	unique_menu			price	takeaway
+Burger King Grand Indonesia	Thamrin		Whooper Jr.			37273	yes
+Burger King Thamrin City	Tanah Abang	Whooper Jr.			37273	yes
+Burger King Bendungan Hilir	Bendungan Hilir	Whooper Jr.			37273	yes
+Burger King Citywalk Sudirman	Sudirman	Cheese Burger			25000	yes
+Burger King Hayam Wuruk		Hayam Wuruk	Chicken Steakhouse BBQ		59901	yes
+Burger King Atrium Plaza	Senen		Mushroom Swiss XL		59901	yes
+Burger King Cempaka Putih	Cempaka Putih	Whooper Jr.			37273	yes
+Flip Burger			Sudirman	Cheese Burger			40909	yes
+Lawless Burger			Menteng		The Lemmy			105000	yes
+Lemoe Burger			Cempaka Putih	Chicken Cabe Ijo		14000	yes
+Le Burger			Sudirman	Truffle Burger			130000	yes
+Burger Bener			Senen		Beef Burger Spicy BBQ Sauce	24000	yes
+Dope Burger			Menteng		All American			75000	yes
+The Goods Diner			SCBD		Coffee Rubed Burger		120000	yes
+Burgreens Menteng		Menteng		Mini Trio Vegan Burger		75000	yes
+Burgreens Pacific Place		SCBD		Mini Trio Vegan Burger		75000	yes
+Hard Rock Cafe			SCBD		Original Legendary Burger	229000	yes
+Ask for Patty			Menteng		Classic Patty			60500	yes
+Johny Rockets			Karet		Bacon Cheddar			72000	yes
+BarBurger			Cempaka Putih	Barchiz Burger			23000	yes
+Belly Bandit To Go		Menteng		Bandit Tower			68000	yes
+Klenger Burger			Senen		Super Duper Klenger Burger	45000	yes
+Gode Burger			Pecenongan	Pretty Purple Chicken Matah	30000	yes
+Lucy Beer & Burger Bar		Sudirman	Bacon Me Crazy			68000	yes
+---
+
+
 SELECT partlor_name, district, unique_menu, price, delivery 
 FROM central_jakarta 
 WHERE delivery = "yes";
