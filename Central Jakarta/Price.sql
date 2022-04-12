@@ -69,16 +69,23 @@ Hard Rock Cafe			SCBD		Original Legendary Burger	229000
 
 SELECT partlor_name, district, unique_menu, price 
 FROM central_jakarta 
-WHERE price >= 50000 
-ORDER BY price DESC;
+WHERE price >= 100000;
 
----OUTPUT (14 rows)
+---OUTPUT (5 rows)
+# partlor_name	    district	unique_menu	                  price
+Hard Rock Cafe	    SCBD	Original Legendary Burger	  229000
+Le Burger	    Sudirman	Truffle Burger	            	  130000
+The Goods Diner	    SCBD	Coffee Rubed Burger	          120000
+JJ Royal Brasserie  Karet	Western Bacon Cheese Burger	  110000
+Lawless Burger	    Menteng	The Lemmy	                  105000
+---
+
+SELECT partlor_name, district, unique_menu, price 
+FROM central_jakarta 
+WHERE price BETWEEN 50000 AND 100000;
+
+---OUTPUT (9 rows)
 # partlor_name			district	unique_menu			price
-Hard Rock Cafe			SCBD		Original Legendary Burger	229000
-Le Burger			Sudirman	Truffle Burger			130000
-The Goods Diner			SCBD		Coffee Rubed Burger		120000
-JJ Royal Brasserie		Karet		Western Bacon Cheese Burger	110000
-Lawless Burger			Menteng		The Lemmy			105000
 Dope Burger			Menteng		All American			75000
 Burgreens Menteng		Menteng		Mini Trio Vegan Burger		75000
 Burgreens Pacific Place		SCBD		Mini Trio Vegan Burger		75000
@@ -93,8 +100,7 @@ Burger King Atrium Plaza	Senen		Mushroom Swiss XL		59901
 
 SELECT partlor_name, district, unique_menu, price 
 FROM central_jakarta 
-WHERE price <= 50000 
-ORDER BY price;
+WHERE price <= 50000;
 
 ---OUTPUT (11 rows)
 # partlor_name	                district	      	unique_menu     	          price
@@ -109,19 +115,4 @@ Burger King Bendungan Hilir	Bendungan Hilir		Whooper Jr.	                  37273
 Burger King Cempaka Putih	Cempaka Putih	 	Whooper Jr.	                  37273
 Flip Burger	                Sudirman	      	Cheese Burger	                  40909
 Klenger Burger	                Senen	         	Super Duper Klenger Burger	  45000
----
-
-
-SELECT partlor_name, district, unique_menu, price 
-FROM central_jakarta 
-WHERE price >= 100000 
-ORDER BY price DESC;
-
----OUTPUT (5 rows)
-# partlor_name	    district	unique_menu	                  price
-Hard Rock Cafe	    SCBD	Original Legendary Burger	  229000
-Le Burger	    Sudirman	Truffle Burger	            	  130000
-The Goods Diner	    SCBD	Coffee Rubed Burger	          120000
-JJ Royal Brasserie  Karet	Western Bacon Cheese Burger	  110000
-Lawless Burger	    Menteng	The Lemmy	                  105000
 ---
