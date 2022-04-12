@@ -15,7 +15,7 @@ Burger King Pantai Indah Kapuk	Pantai Indah Kapuk	Cheese Burger			25000
 Burger King Mall Kelapa Gading	Kelapa Gading		Cheese Burger			25000
 Burger King Mall Artha Gading	Kelapa Gading		Cheese Burger			25000
 Lemoe Burger			Kelapa Gading		Beef Cabe Ijo			17000
-Burger Bener			Kelapa Gading		Bener 1				13000
+Burger Bener Kelapa Gading	Kelapa Gading		Bener 1				13000
 ---
 
 #cheapest as possible
@@ -25,7 +25,7 @@ ORDER BY price;
 
 ---OUTPUT (11 rows)
 # partlor_name			district		unique_menu			price
-Burger Bener			Kelapa Gading		Bener 1				13000
+Burger Bener Kelapa Gading	Kelapa Gading		Bener 1				13000
 Lemoe Burger			Kelapa Gading		Beef Cabe Ijo			17000
 Burger King Pantai Indah Kapuk	Pantai Indah Kapuk	Cheese Burger			25000
 Burger King Mall Kelapa Gading	Kelapa Gading		Cheese Burger			25000
@@ -56,7 +56,7 @@ WHERE price <= 50000;
 
 ---OUTPUT (7 rows)
 # partlor_name			district		unique_menu		price
-Burger Bener			Kelapa Gading		Bener 1			13000
+Burger Bener Kelapa Gading	Kelapa Gading		Bener 1			13000
 Lemoe Burger			Kelapa Gading		Beef Cabe Ijo		17000
 Burger King Pantai Indah Kapuk	Pantai Indah Kapuk	Cheese Burger		25000
 Burger King Mall Kelapa Gading	Kelapa Gading		Cheese Burger		25000
