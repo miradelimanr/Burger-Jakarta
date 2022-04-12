@@ -40,7 +40,14 @@ Six Ounces Coffee		Kelapa Gading		Aussie Burger			75000
 
 SELECT partlor_name, district, unique_menu, price
 FROM north_jakarta 
-WHERE price >= 50000;
+WHERE price >= 100000;
+
+---OUTPUT (0 row)
+---
+
+SELECT partlor_name, district, unique_menu, price
+FROM north_jakarta 
+WHERE price BETWEEN 50000 AND 100000;
 
 ---OUTPUT (4 rows)
 # partlor_name		district	unique_menu			price
@@ -63,11 +70,4 @@ Burger King Mall Kelapa Gading	Kelapa Gading		Cheese Burger		25000
 Burger King Mall Artha Gading	Kelapa Gading		Cheese Burger		25000
 Flip Burger Kelapa Gading	Kelapa Gading		Brisket Cheese Burger	28182
 Five Monkeys 			Sunter			BBQ Bacon Cheeseburger	48182
----
-
-SELECT partlor_name, district, unique_menu, price
-FROM north_jakarta 
-WHERE price >= 100000;
-
----OUTPUT (0 row)
 ---
