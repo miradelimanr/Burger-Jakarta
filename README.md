@@ -1,6 +1,6 @@
 Explanation about this project : I'll sort out on detail the burger partlor in Jakarta. I took about 76 samples from various food-rating websites like Qraved, Zomato, and last but not least, our trusty Google Maps.
 
-I put them all each on five different cities in Jakarta (Central, South, West, North, and East), thus divide them to these three sections : District, Price, and Facility
+I put them all each on five different cities in Jakarta (Central, South, West, North, and East), thus they are divided into these three sections : District, Price, and Facility
 
 For District, I filter the partlor each on their own then calculate the rating and decide whether the partlor is recommended.
 
