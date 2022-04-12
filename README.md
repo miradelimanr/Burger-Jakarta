@@ -3,5 +3,7 @@ Explanation about this project : I'll sort out on detail the burger partlor in J
 I put them all each on five different cities in Jakarta (Central, South, West, North, and East), thus divide them to these three sections : District, Price, and Facility
 
 For District, I filter the partlor each on their own then calculate the rating and decide whether the partlor is recommended.
+
 As for Price, I use ORDER BY to sort out which one is the most expensive and cheapest, also filtering out based on price range, from Rp50000 to Rp100000 for the basic.
-Last but not least, for facility I choose whether we can dine in, take away, delivery, also find out whether they have outdoor seats, smoking room, and wifi. Then we are looking for some dietary like alchohol and halal menu. For halal menu we will find out whether they've got poultry which is restricted or not. For the next project I will not using this term halal/not anymore, but rather other_poultry which available on Singaporean Restaurant in Jakarta.
+
+Last but not least, for facility I choose whether we can dine in, take away, delivery, also find out whether they have outdoor seats, smoking room, and wifi. Then we are looking for some dietary like alchohol and halal menu. For halal menu we will find out whether they've got poultry which is restricted or not. For the next project I will not using this term anymore, but rather other_poultry which available on Singaporean Restaurant in Jakarta.
