@@ -1,6 +1,6 @@
 SELECT partlor_name, district, unique_menu, price, dining FROM west_jakarta 
 WHERE dining = "yes";
-SELECT partlor_name, district, unique_menu, price, takeaway FROM south_jakarta
+SELECT partlor_name, district, unique_menu, price, takeaway FROM west_jakarta
 WHERE takeaway = "yes";
 SELECT partlor_name, district, unique_menu, price, delivery FROM west_jakarta 
 WHERE delivery = "yes";
