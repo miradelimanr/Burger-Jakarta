@@ -73,23 +73,6 @@ WHERE alcohol_served = "yes";
 ---OUTPUT (0 row)
 ---
 
-SELECT partlor_name, district, unique_menu, price, alcohol_served 
-FROM east_jakarta 
-WHERE alcohol_served = "no";
-
----OUTPUT (9 rows)
-# partlor_name				district	unique_menu			   price	alcohol_served
-Burger King Klender			Klender		Chicken Tendercrisp		   42727	no
-Burger King Cibubur Junction		Cibubur		Cheese Burger			   25000	no
-Dons Burger Pusat Grosir Cililitan	Cililitan	Spesial Burger		           13000	no
-Lemoe Burger Matraman			Matraman	Chicken Cabe Ijo	           14000	no
-Resto Burger Takkatak			Kramat Jati	Extra Double Beef & Cheese Burger  30000	no
-Carls Jr. Klender			Klender		Double Western Beefbac		   82727	no
-Lemoe Burger Pulo Gadung		Pulo Gadung	Chicken Special Cheese		   20000	no
-The Lime Roaster & Burger		Pulo Gadung	Chicken Burger			   25000	no
-Papitos Burger				Kramat Jati	Mozarella Burger		   14000	no
----
-
 SELECT partlor_name, district, unique_menu, price, wifi 
 FROM east_jakarta 
 WHERE wifi = "yes";
@@ -108,45 +91,11 @@ WHERE reservation  = "yes";
 ---OUTPUT (0 row)
 ---
 
-SELECT partlor_name, district, unique_menu, price, reservation 
-FROM east_jakarta 
-WHERE reservation = "no";
-
----OUTPUT (9 rows)
-# partlor_name				district	unique_menu			   price	reservation
-Burger King Klender			Klender		Chicken Tendercrisp		   42727	no
-Burger King Cibubur Junction		Cibubur		Cheese Burger			   25000	no
-Dons Burger Pusat Grosir Cililitan	Cililitan	Spesial Burger		           13000	no
-Lemoe Burger Matraman			Matraman	Chicken Cabe Ijo	           14000	no
-Resto Burger Takkatak			Kramat Jati	Extra Double Beef & Cheese Burger  30000	no
-Carls Jr. Klender			Klender		Double Western Beefbac		   82727	no
-Lemoe Burger Pulo Gadung		Pulo Gadung	Chicken Special Cheese		   20000	no
-The Lime Roaster & Burger		Pulo Gadung	Chicken Burger			   25000	no
-Papitos Burger				Kramat Jati	Mozarella Burger		   14000	no
----
-
 SELECT partlor_name, district, unique_menu, price, drive_thru 
 FROM east_jakarta 
 WHERE drive_thru = "yes";
 
 ---OUTPUT (0 row)
----
-
-SELECT partlor_name, district, unique_menu, price, halal_food 
-FROM east_jakarta 
-WHERE halal_food = "yes";
-
----OUTPUT (9 rows)
-# partlor_name	                   district	unique_menu			   price	halal_food
-Burger King Klender		   Klender	Chicken Tendercrisp		   42727	yes
-Burger King Cibubur Junction	   Cibubur	Cheese Burger			   25000	yes
-Dons Burger Pusat Grosir Cililitan Cililitan	Spesial Burger			   13000	yes
-Lemoe Burger Matraman		   Matraman	Chicken Cabe Ijo		   14000	yes
-Resto Burger Takkatak		   Kramat Jati	Extra Double Beef & Cheese Burger  30000	yes
-Carls Jr. Klender		   Klender	Double Western Beefbac		   82727	yes
-Lemoe Burger Pulo Gadung	   Pulo Gadung	Chicken Special Cheese		   20000	yes
-The Lime Roaster & Burger	   Pulo Gadung	Chicken Burger			   25000	yes
-Papitos Burger			   Kramat Jati	Mozarella Burger		   14000	yes
 ---
 
 SELECT partlor_name, district, unique_menu, price, halal_food 
