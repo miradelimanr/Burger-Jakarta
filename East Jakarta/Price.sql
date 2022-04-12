@@ -36,7 +36,14 @@ Carls Jr. 				Klender	Klender		Double Western Beefbac			82727
 
 SELECT partlor_name, district, unique_menu, price, dining, takeaway, delivery, outdoor_seat, smoking_area, alcohol_served, wifi, reservation, halal_food 
 FROM east_jakarta 
-WHERE price >= 50000;
+WHERE price >= 100000;
+
+---OUTPUT (0 row)
+---
+
+SELECT partlor_name, district, unique_menu, price, dining, takeaway, delivery, outdoor_seat, smoking_area, alcohol_served, wifi, reservation, halal_food 
+FROM east_jakarta 
+WHERE price BETWEEN 50000 AND 100000;
 
 ---OUTPUT (1 row)
 # partlor_name	   district unique_menu		    price  dining takeaway delivery outdoor_seat smoking_area alcohol_served	wifi	reservation	halal_food
@@ -57,11 +64,4 @@ Resto Burger Takkatak		   Kramat Jati	Extra Double Beef & Cheese Burger 30000	ye
 Lemoe Burger Pulo Gadung	   Pulo Gadung	Chicken Special Cheese		  20000	yes    yes	no	 yes	      no	   no	          no	no	    yes
 The Lime Roaster & Burger	   Pulo Gadung	Chicken Burger			  25000	yes    yes	no	 no	      no	   no	          no	no	    yes
 Papitos Burger			   Kramat Jati	Mozarella Burger		  14000	yes    yes	no	 no	      no	   no	          no	no	    yes
----
-
-SELECT partlor_name, district, unique_menu, price, dining, takeaway, delivery, outdoor_seat, smoking_area, alcohol_served, wifi, reservation, halal_food 
-FROM east_jakarta 
-WHERE price >= 100000;
-
----OUTPUT (0 row)
 ---
