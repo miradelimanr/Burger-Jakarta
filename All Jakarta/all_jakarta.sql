@@ -23,8 +23,8 @@ Blenger Burger Blok M			Blok M			Cheese Burger X2			32000	yes	yes	  yes		yes		ye
 Blenger Burger Fatmawati		Fatmawati		Cheese Burger				20000	yes	yes	  no		yes		yes		no		no	no		no		yes
 Burger +				Sunter			Special Bacon & Egg Burger		58000	yes	yes	  no		no		no		no		no	no		no		yes
 Burger Bakar Qebul			Pasar Minggu		Beef Burger				13000	no	yes	  no		no		yes		no		no	no		no		yes
-Burger Bener				Kelapa Gading		Bener 1					13000	yes	yes	  yes		no		yes		no		no	no		no		yes
-Burger Bener				Senen			Beef Burger Spicy BBQ Sauce		24000	yes	yes	  yes		yes		yes		no		no	no		no		yes
+Burger Bener Kelapa Gading		Kelapa Gading		Bener 1					13000	yes	yes	  yes		no		yes		no		no	no		no		yes
+Burger Bener Senen			Senen			Beef Burger Spicy BBQ Sauce		24000	yes	yes	  yes		yes		yes		no		no	no		no		yes
 Burger King Atrium Plaza		Senen			Mushroom Swiss XL			59901	yes	yes	  no		no		yes		no		yes	no		no		yes
 Burger King Bellagio			Kuningan		Double Cheese Burger			41818	yes	yes	  yes		yes		yes		no		yes	no		no		yes
 Burger King Bendungan Hilir		Bendungan Hilir		Whooper Jr.				37273	yes	yes	  yes		yes		yes		no		yes	no		no		yes
@@ -56,11 +56,11 @@ Byurger					Fatmawati		Sexyback Rib				65000	yes	yes	  yes		yes		yes		yes		yes	n
 Carls Jr. Central Park			Tanjung Duren		Super Star Cheese			79900	yes	yes	  yes		no		no		no		no	no		no		yes
 Carls Jr. Klender			Klender			Double Western Beefbac			82727	yes	yes	  yes		no		no		no		yes	no		no		yes
 Carls Jr. Lippo Mall Puri		Puri Indah		Western Beefbac Cheeseburger		69901	yes	yes	  yes		no		no		no		yes	no		no		yes
-Carls Junior				Kemang			Western Beefbac				59091	yes	yes	  yes		yes		no		no		yes	no		no		yes
+Carls Junior Kemang			Kemang			Western Beefbac				59091	yes	yes	  yes		yes		no		no		yes	no		no		yes
 Dons Burger Pusat Grosir Cililitan	Cililitan		Spesial Burger				13000	yes	yes	  no		no		yes		no		no	no		no		yes
 Dope Burger				Menteng			All American				75000	yes	yes	  yes		no		yes		no		yes	yes		no		yes
 Five Monkeys 				Sunter			BBQ Bacon Cheeseburger			48182	yes	yes	  yes		no		yes		yes		yes	no		no		yes
-Flip Burger				Sudirman		Cheese Burger				40909	yes	yes	  no		no		no		no		no	no		no		yes
+Flip Burger Sudirman			Sudirman		Cheese Burger				40909	yes	yes	  no		no		no		no		no	no		no		yes
 Flip Burger Kebon Jeruk			Kebon Jeruk		Brisket Cheese Burger			28182	yes	yes	  yes		no		no		no		no	no		no		yes
 Flip Burger Kelapa Gading		Kelapa Gading		Brisket Cheese Burger			28182	yes	yes	  no		no		yes		no		yes	no		no		yes
 Flip Burger Kota Kasablanka		Tebet			Brisket Cheese Burger			28182	yes	yes	  no		no		no		no		no	no		no		yes
@@ -170,8 +170,8 @@ Flip Burger Kebon Jeruk			Kebon Jeruk		4.3		4		4		1662		4.1		Recommended
 Flip Burger Pondok Indah Plaza		Pondok Indah		4.5		4		3.7		1114		4		Recommended
 Burger King Tebet			Tebet			4.4		4		3.7		5592		4		Recommended
 Burger King Mall Ciputra		Grogol			4.5		4		3.5		742		4		Recommended
-Flip Burger				Sudirman		3.9		5		3.3		93		4		Recommended
-Burger Bener				Senen			4.5		4		3.7		1223		4		Recommended
+Flip Burger Sudirman			Sudirman		3.9		5		3.3		93		4		Recommended
+Burger Bener Senen			Senen			4.5		4		3.7		1223		4		Recommended
 TGI Fridays Central Park		Tanjung Duren		4.3		3.9		4		1713		4		Recommended
 Burger King Pondok Indah Plaza		Pondok Indah		4.5		4		3.2		1278		3.9		Recommended
 Burger King Lotte Avenue		Karet			4.3		4.2		3.2		255		3.9		Recommended
@@ -205,7 +205,7 @@ The Lime Roaster & Burger		Pulo Gadung		4.4		0		3.3		35		2.5		Reconsidered
 Burger King Mall Artha Gading		Kelapa Gading		4.5		0		3.1		1221		2.5		Reconsidered
 Burger King Mall Kelapa Gading		Kelapa Gading		4		0		3.5		171		2.5		Reconsidered
 Burger King Kemang			Kemang			4.3		0		3.1		29		2.4		Reconsidered
-Burger Bener				Kelapa Gading		4.4		0		3		323		2.4		Reconsidered
+Burger Bener Kelapa Gading		Kelapa Gading		4.4		0		3		323		2.4		Reconsidered
 Lemoe Burger				Cempaka Putih		0		4.3		0		4		1.4		Reconsidered
 Stacksite Express			Senayan			0		0		3.9		34		1.3		Reconsidered
 Flip Burger Meruya			Meruya			0		4		0		29		1.3		Reconsidered
