@@ -32,6 +32,7 @@ BarBurger			Cempaka Putih	Barchiz Burger			23000
 Lemoe Burger Cempaka Putih	Cempaka Putih	Chicken Cabe Ijo		14000
 ---
 
+#cheapest as possible
 SELECT partlor_name, district, unique_menu, price 
 FROM central_jakarta 
 ORDER BY price;
