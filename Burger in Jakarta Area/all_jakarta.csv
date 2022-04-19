@@ -1,0 +1,77 @@
+no;partlor_name;region;District;unique_menu;price;google_rating;google_count;qraved_rating;qraved_count;zomato_rating;zomato_count;dining;takeaway;delivery;outdoor_seat;smoking_area;alcohol_served;wifi;reservation;drive_thru;halal_food
+1;Burger King Grand Indonesia;Central Jakarta;Thamrin;Whooper Jr.;37273;04.04;1103;5;2;03.08;123;yes;yes;yes;no;no;no;no;no;no;yes
+2;Burger King Thamrin City;Central Jakarta;Tanah Abang;Whooper Jr.;37273;04.04;715;5;1;03.01;38;yes;yes;yes;no;no;no;no;no;no;yes
+3;Burger King Bendungan Hilir;Central Jakarta;Bendungan Hilir;Whooper Jr.;37273;04.05;3656;5;1;03.01;21;yes;yes;yes;yes;yes;no;yes;no;no;yes
+4;Burger King Citywalk Sudirman;Central Jakarta;Sudirman;Cheese Burger;25000;04.03;453;04.02;44;03.04;61;yes;yes;yes;yes;yes;no;yes;no;no;yes
+5;Burger King Hayam Wuruk;Central Jakarta;Hayam Wuruk;Chicken Steakhouse BBQ;59901;04.05;4085;04.01;11;03.03;120;yes;yes;yes;yes;yes;no;yes;no;no;yes
+6;Burger King Atrium Plaza;Central Jakarta;Senen;Mushroom Swiss XL;59901;04.03;397;4;1;02.08;30;yes;yes;no;no;yes;no;yes;no;no;yes
+7;Burger King Cempaka Putih;Central Jakarta;Cempaka Putih;Whooper Jr.;37273;04.04;532;03.03;3;03.01;42;yes;yes;yes;yes;yes;no;yes;no;yes;yes
+9;Flip Burger;Central Jakarta;Sudirman;Cheese Burger;40909;03.09;55;5;1;03.03;37;yes;yes;no;no;no;no;no;no;no;yes
+10;Lawless Burger;Central Jakarta;Menteng;The Lemmy;105000;04.06;1821;5;1;04.01;103;yes;yes;no;yes;yes;yes;yes;yes;no;yes
+11;Lemoe Burger;Central Jakarta;Cempaka Putih;Chicken Cabe Ijo;14000;0;0;04.03;4;0;0;yes;yes;yes;yes;no;no;no;no;no;yes
+12;Le Burger;Central Jakarta;Sudirman;Truffle Burger;130000;04.05;778;04.03;14;04.03;389;yes;yes;yes;no;yes;yes;yes;yes;no;yes
+13;Burger Bener;Central Jakarta;Senen;Beef Burger Spicy BBQ Sauce;24000;04.05;1171;4;1;03.07;51;yes;yes;yes;yes;yes;no;no;no;no;yes
+14;Dope Burger;Central Jakarta;Menteng;All American;75000;04.05;775;03.05;2;04.03;774;yes;yes;yes;no;yes;no;yes;yes;no;yes
+15;The Goods Diner;Central Jakarta;SCBD;Coffee Rubed Burger;120000;04.03;901;03.09;39;04.01;704;yes;yes;yes;no;yes;yes;yes;yes;no;no
+16;Burgreens Menteng;Central Jakarta;Menteng;Mini Trio Vegan Burger;75000;04.05;473;4;2;04.04;237;yes;yes;no;no;yes;no;yes;no;no;yes
+17;Burgreens Pacific Place;Central Jakarta;SCBD;Mini Trio Vegan Burger;75000;04.05;532;04.01;30;04.04;323;yes;yes;yes;no;no;no;yes;no;no;yes
+18;JJ Royal Brasserie;Central Jakarta;Karet;Western Bacon Cheese Burger;110000;04.05;1252;4;63;4;578;yes;no;no;yes;yes;no;yes;yes;no;no
+19;Hard Rock Cafe;Central Jakarta;SCBD;Original Legendary Burger;229000;04.05;3071;4;42;04.02;710;yes;yes;no;yes;yes;yes;yes;yes;no;no
+20;Ask for Patty;Central Jakarta;Menteng;Classic Patty;60500;04.07;127;0;0;03.08;13;yes;yes;yes;yes;yes;no;no;no;no;yes
+21;Johny Rockets;Central Jakarta;Karet;Bacon Cheddar;72000;04.03;320;4;41;03.01;59;yes;yes;no;yes;yes;no;yes;yes;no;yes
+22;BarBurger;Central Jakarta;Cempaka Putih;Barchiz Burger;23000;04.05;216;0;0;03.08;26;yes;yes;no;no;no;no;no;no;no;yes
+23;Belly Bandit To Go;Central Jakarta;Menteng;Bandit Tower;68000;04.06;100;0;0;03.06;11;yes;yes;yes;no;no;no;no;no;no;yes
+24;Klenger Burger;Central Jakarta;Senen;Super Duper Klenger Burger;45000;04.08;9;0;0;03.06;12;yes;yes;yes;no;no;no;no;no;no;yes
+25;Gode Burger;Central Jakarta;Pecenongan;Pretty Purple Chicken Matah;30000;04.05;21;0;0;03.03;11;yes;yes;no;no;no;no;no;no;no;yes
+26;Lucy Beer & Burger Bar;Central Jakarta;Sudirman;Bacon Me Crazy;68000;04.06;31;0;0;03.05;35;yes;yes;no;yes;yes;yes;no;no;no;yes
+27;Burger King Klender;East Jakarta;Klender;Chicken Tendercrisp;42727;04.05;6409;3;1;03.07;86;yes;yes;yes;yes;no;no;yes;no;no;yes
+28;Burger King Cibubur Junction;East Jakarta;Cibubur;Cheese Burger;25000;04.04;622;5;1;03.06;20;yes;yes;yes;no;no;no;yes;no;no;yes
+29;Dons Burger Pusat Grosir Cililitan;East Jakarta;Cililitan;Spesial Burger;13000;04.04;158;5;1;4;99;yes;yes;no;no;yes;no;no;no;no;yes
+30;Lemoe Burger Matraman;East Jakarta;Matraman;Chicken Cabe Ijo;14000;0;0;03.07;3;0;0;yes;yes;yes;yes;no;no;no;no;no;yes
+31;Resto Burger Takkatak;East Jakarta;Kramat Jati;Extra Double Beef & Cheese Burger;30000;04.02;91;04.03;4;03.08;37;yes;yes;no;no;yes;no;no;no;no;yes
+32;Carl's Jr. Klender;East Jakarta;Klender;Double Western Beefbac;82727;04.06;5220;03.08;5;04.03;178;yes;yes;yes;no;no;no;yes;no;no;yes
+33;Lemoe Burger Pulo Gadung;East Jakarta;Pulo Gadung;Chicken Special Cheese;20000;04.05;218;0;0;03.05;6;yes;yes;no;yes;no;no;no;no;no;yes
+34;The Lime Roaster & Burger;East Jakarta;Pulo Gadung;Chicken Burger;25000;04.04;30;0;0;03.03;5;yes;yes;no;no;no;no;no;no;no;yes
+35;Papito's Burger;East Jakarta;Kramat Jati;Mozarella Burger;14000;0;0;0;0;03.05;4;yes;yes;no;no;no;no;no;no;no;yes
+36;Burger King Pantai Indah Kapuk;North Jakarta;Pantai Indah Kapuk;Cheese Burger;25000;04.04;5945;4;7;3;102;yes;yes;yes;yes;yes;no;yes;no;no;yes
+37;Burger King Mall Kelapa Gading;North Jakarta;Kelapa Gading;Cheese Burger;25000;04.00;99;0;0;03.05;72;yes;yes;yes;no;no;no;yes;no;no;yes
+38;Burger King Mall Artha Gading;North Jakarta;Kelapa Gading;Cheese Burger;25000;04.05;1193;0;0;03.01;28;yes;yes;yes;no;no;no;no;no;no;yes
+39;Burger King Sunter Mall;North Jakarta;Sunter;Chicken Steakhouse BBQ;59091;03.04;23;3;1;02.09;59;yes;yes;yes;no;no;no;yes;no;no;yes
+40;Burger +;North Jakarta;Sunter;Special Bacon & Egg Burger;58000;04.08;113;0;0;03.08;33;yes;yes;no;no;no;no;no;no;no;yes
+41;Lemoe Burger;North Jakarta;Kelapa Gading;Beef Cabe Ijo;17000;0;0;0;0;0;0;yes;yes;yes;yes;no;no;no;no;no;yes
+42;Flip Burger Kelapa Gading;North Jakarta;Kelapa Gading;Brisket Cheese Burger;28182;04.04;1411;4;1;03.09;229;yes;yes;no;no;yes;no;yes;no;no;yes
+43;Burger Bener;North Jakarta;Kelapa Gading;Bener 1;13000;04.04;312;0;0;3;11;yes;yes;yes;no;yes;no;no;no;no;yes
+44;Five Monkeys ;North Jakarta;Sunter;BBQ Bacon Cheeseburger;48182;04.06;395;04.04;7;4;222;yes;yes;yes;no;yes;yes;yes;no;no;yes
+45;Six Ounces Coffee;North Jakarta;Kelapa Gading;Aussie Burger;75000;04.06;1656;4;174;04.02;234;yes;yes;no;yes;yes;no;yes;yes;no;no
+46;Pig Hunter;North Jakarta;Sunter;American Pork Burger;55000;04.04;1986;04.02;34;4;469;yes;yes;no;no;yes;yes;yes;yes;no;no
+47;Burger King;South Jakarta;Blok M;Double Cheese Burger;41818;04.03;794;03.08;10;03.03;48;yes;yes;yes;yes;yes;no;yes;no;no;yes
+48;Burger King;South Jakarta;Tebet;Double Cheese Burger;41818;04.04;5497;4;1;03.07;94;yes;yes;yes;no;no;no;yes;no;no;yes
+49;Burger King Lotte Avenue;South Jakarta;Karet;Double Cheese Burger;41818;04.03;192;04.02;6;03.02;57;yes;yes;yes;no;no;no;yes;no;no;yes
+50;Burger King Bellagio;South Jakarta;Kuningan;Double Cheese Burger;41818;04.04;255;03.09;10;02.08;30;yes;yes;yes;yes;yes;no;yes;no;no;yes
+51;Burger King Pondok Indah Plaza;South Jakarta;Pondok Indah;Double Cheese Burger;41818;04.05;1244;4;1;03.02;33;yes;yes;yes;yes;yes;no;yes;no;no;yes
+52;Burger King;South Jakarta;Kemang;Double Cheese Burger;41818;04.03;16;0;0;03.01;13;yes;yes;yes;no;no;no;yes;no;no;yes
+53;Burger King;South Jakarta;Setiabudi;Double Cheese Burger;41818;04.02;218;4;1;03.05;86;yes;yes;no;yes;yes;no;yes;no;no;yes
+54;Burger Bakar Qebul;South Jakarta;Pasar Minggu;Beef Burger;13000;04.07;2098;04.03;10;04.03;273;no;yes;no;no;yes;no;no;no;no;yes
+55;Flip Burger ;South Jakarta;Senopati;Double Cheese Burger;45000;04.04;2791;03.09;88;04.02;1133;yes;yes;yes;no;no;no;yes;no;no;yes
+56;Blenger Burger;South Jakarta;Blok M;Cheese Burger X2;32000;04.05;4726;04.03;12;04.03;581;yes;yes;yes;yes;yes;no;no;no;no;yes
+57;Blenger Burger;South Jakarta;Fatmawati;Cheese Burger;20000;04.06;2486;4;27;4;114;yes;yes;no;yes;yes;no;no;no;no;yes
+58;Goods Burger;South Jakarta;Pondok Indah;Goods Coffee Rub;65000;04.05;4;4;2;02.06;27;yes;yes;no;no;no;no;no;no;no;yes
+59;Flip Burger Kota Kasablanka;South Jakarta;Tebet;Brisket Cheese Burger;28182;04.03;271;0;0;03.06;171;yes;yes;no;no;no;no;no;no;no;yes
+60;Flip Burger Pondok Indah Plaza;South Jakarta;Pondok Indah;Bitsy Double Cheese;45455;04.05;940;4;6;03.07;168;yes;yes;no;no;no;no;no;no;no;yes
+61;Lawless Burgerbar;South Jakarta;Kemang;Philly Anselmo;75000;04.07;7026;04.06;20;04.07;1902;yes;yes;yes;yes;yes;yes;yes;yes;no;yes
+62;Three Buns;South Jakarta;Senopati;Rambo;115000;04.05;1597;04.02;59;04.01;1292;yes;yes;yes;no;yes;yes;no;yes;no;no
+63;Byurger;South Jakarta;Fatmawati;Sexyback Rib;65000;04.07;1839;04.01;7;04.04;640;yes;yes;yes;yes;yes;yes;yes;no;no;yes
+64;TGI Fridays Lippo Mall Kemang;South Jakarta;Kemang;Fridays Cheeseburger;129000;1;1;4;27;04.03;624;yes;no;no;yes;yes;yes;yes;yes;no;yes
+65;Carl's Junior;South Jakarta;Kemang;Western Beefbac;59091;04.05;2338;4;2;04.02;193;yes;yes;yes;yes;no;no;yes;no;no;yes
+66;MOS Café;South Jakarta;SCBD;Charcoal Tobikiri Burger;63000;04.02;29;0;0;03.08;61;yes;yes;no;no;yes;no;no;yes;no;yes
+67;Stacksite Express;South Jakarta;Senayan;Quicksand;30000;0;0;0;0;03.09;34;yes;yes;yes;yes;yes;no;no;no;no;yes
+68;Burger King Cengkareng;West Jakarta;Cengkareng;Extra King 1;52000;04.05;1587;4;2;02.09;22;yes;yes;yes;no;no;no;yes;no;no;yes
+69;Burger King Green Sedayu Mall;West Jakarta;Cengkareng;Extra King 1;52000;04.02;5;4;1;0;0;yes;yes;yes;no;no;no;yes;no;no;yes
+70;Burger King Central Park;West Jakarta;Tanjung Duren;Chicken Steakhouse BBQ;59091;04.04;676;03.05;2;03.06;162;yes;yes;yes;no;no;no;yes;no;no;yes
+71;Burger King Mall Ciputra;West Jakarta;Grogol;Double Whooper;69091;04.05;687;4;1;03.05;54;yes;yes;yes;no;no;no;yes;no;no;yes
+72;Burger King Mall Taman Anggrek;West Jakarta;Tanjung Duren;Chicken Tenderstrip;42727;0;0;0;0;03.02;18;yes;yes;yes;no;yes;no;yes;no;no;yes
+73;Flip Burger Meruya;West Jakarta;Meruya;Cheese Burger;30000;0;0;4;29;0;0;yes;yes;yes;no;no;no;no;no;no;yes
+74;Flip Burger Kebon Jeruk;West Jakarta;Kebon Jeruk;Brisket Cheese Burger;28182;04.03;1243;4;2;4;417;yes;yes;yes;no;no;no;no;no;no;yes
+75;Carl's Jr. Lippo Mall Puri;West Jakarta;Puri Indah;Western Beefbac Cheeseburger;69901;04.05;540;04.04;7;4;91;yes;yes;yes;no;no;no;yes;no;no;yes
+76;TGI Fridays Central Park;West Jakarta;Tanjung Duren;Fridays Cheeseburgers;129000;04.03;1222;03.09;30;4;461;yes;yes;no;yes;yes;yes;yes;yes;no;yes
+77;Carl's Jr. Central Park;West Jakarta;Tanjung Duren;Super Star Cheese;79900;04.04;616;04.03;11;04.03;323;yes;yes;yes;no;no;no;no;no;no;yes
