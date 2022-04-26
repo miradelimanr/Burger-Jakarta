@@ -1,5 +1,3 @@
-SELECT * FROM singapore.singapore_id_1;
-
 SELECT restaurant_name, city, google_rating, platform_rating, TRUNCATE((google_rating + platform_rating)/2, 1) as total_rating,
 CASE
 	WHEN (google_rating + platform_rating)/2 >= 3.5 THEN "Recommended"
