@@ -1,9 +1,6 @@
-Update (Revised) : 
-Steakhouse Draft Menu :
+Update (Revised) for Steakhouse Menu & Singaporean Restaurant in Indonesia :
 1. Power BI Visualization
 2. Code Updated
-
-Singaporean Restaurant in Indonesia (progressing)
 
 Coming Soon Projects :
 1. Korea - Indonesian Youtuber Analysis
