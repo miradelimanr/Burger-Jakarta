@@ -1,5 +1,5 @@
-Update (Revised) for Steakhouse Menu & Singaporean Restaurant in Indonesia :
-1. Power BI Visualization
+Update (Revised) for All Projects :
+1. Power BI Visualization (except Burger Partlor in Jakarta)
 2. Code Rearranged
 
 Coming Soon Projects :
