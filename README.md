@@ -1,6 +1,6 @@
 Update (Revised) for Steakhouse Menu & Singaporean Restaurant in Indonesia :
 1. Power BI Visualization
-2. Code Updated
+2. Code Rearranged
 
 Coming Soon Projects :
 1. Korea - Indonesian Youtuber Analysis
