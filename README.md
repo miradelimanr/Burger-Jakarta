@@ -1,6 +1,4 @@
-Update (Revised) for All Projects :
-1. Power BI Visualization (except Burger Partlor in Jakarta)
-2. Code Rearranged
+Major Reconstruction : Steakhouse Draft Menu
 
 Coming Soon Projects :
 1. Korea - Indonesian Youtuber Analysis
